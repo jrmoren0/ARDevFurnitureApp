@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa6d74131d452424595eeab0c6b04ece, type: 3}
+  m_Name: ShelvesFurniture Data
+  m_EditorClassIdentifier: 
+  furnitureName: Shelves
+  furnitureIcon: {fileID: 2800000, guid: 35eb061369802aa4b8962429b338cd14, type: 3}
+  furniturePrefab: {fileID: 4634018949849318026, guid: 1e2c64826715a4b0784f9aa64311c4b5,
+    type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa6d74131d452424595eeab0c6b04ece, type: 3}
+  m_Name: Table Furniture Data
+  m_EditorClassIdentifier: 
+  furnitureName: Table
+  furnitureIcon: {fileID: 2800000, guid: b772064df6aec3e43a4c41009b37a5d9, type: 3}
+  furniturePrefab: {fileID: 2991504596545866359, guid: 40db8ec0ab0434f94b25d8c3aa5de47e,
+    type: 3}

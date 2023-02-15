@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cbae35d86a52c4311b7aa76b2cfb32b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - contentTransform: {instanceID: 0}
+  - UIPrefab: {instanceID: 0}
+  - aRPlacementInteractable: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

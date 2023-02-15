@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ARDevReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5504217773802749636
+  m_GuidHigh: 17331155518494185147
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5220651553138728183
+      m_GuidHigh: 15823180945611506604
+    m_SerializedTextureGuid:
+      m_GuidLow: 14153859316327042260
+      m_GuidHigh: 1888982226029450201
+    m_Size: {x: 0.12, y: 0.1782756}
+    m_SpecifySize: 1
+    m_Name: Sqrl
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5133296228000191211
+      m_GuidHigh: 1584662365702396068
+    m_SerializedTextureGuid:
+      m_GuidLow: 7209452626936201153
+      m_GuidHigh: 1491029049176757400
+    m_Size: {x: 0.12, y: 0.16457143}
+    m_SpecifySize: 1
+    m_Name: Dogs
+    m_Texture: {fileID: 0}
